@@ -4,7 +4,16 @@
 
 ### About me
 
-**I m Embedded Software Developer interested in Embedded and IoT field.**
+**I m Embedded Software Developer.**
+
+## Interested
+
+* Embedded System
+* IoT
+* Device Driver
+* Linux
+* FreeRTOS
+* AWS
 
 - :thumbsup:  Always exploring the field and project of Embedded System. 
 - :thumbsup:  Learning new skills, working on personal projects in free time.
