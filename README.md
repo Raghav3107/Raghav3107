@@ -17,7 +17,7 @@
 
 - :thumbsup:  Always exploring the field and project of Embedded System. 
 - :thumbsup:  Learning new skills, working on personal projects in free time.
-- :handshake:  I looking to collabrate with anyone on Embedded and IoT projects.
+- :handshake:  I m happy to collabrate with anyone on Embedded and IoT projects.
 
 
 ### Skills 
@@ -32,13 +32,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/horsemann07/)](https://www.instagram.com/horsemann07/)
 
 <p align="center">
-<a href="https://github.com/Raghav3107">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Raghav3107&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav3107&theme=dracula&layout=compact&langs_count=6" />
+<a href="https://github.com/horsemann07">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=horsemann07&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horsemann07&theme=dracula&layout=compact&langs_count=6" />
  <p align="center"> 
   Visitor count<br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Raghav3107.Raghav3107/count.svg" />
-  <img src="https://img.shields.io/github/followers/Raghav3107?label=Follow&style=social" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=horsemann07.horsemann07/count.svg" />
+  <img src="https://img.shields.io/github/followers/horsemann07?label=Follow&style=social" />
 </p>
 </a>
 </p>
