@@ -26,7 +26,7 @@
 
 ### How to contact me.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Raghav3107)](https://github.com/Raghav3107)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/horsemann07)](https://github.com/horsemann07)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-jha-599552188/)](https://www.linkedin.com/in/raghav-jha-599552188/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raghavjha1531@gmail.com)](mailto:raghavjha1531@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/horsemann07/)](https://www.instagram.com/horsemann07/)
