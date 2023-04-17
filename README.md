@@ -30,6 +30,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-jha-599552188/)](https://www.linkedin.com/in/raghav-jha-599552188/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raghavjha1531@gmail.com)](mailto:raghavjha1531@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/horsemann07/)](https://www.instagram.com/horsemann07/)
+<a href="https://stackoverflow.com/users/16455363/horsemann07" target="_blank">
+<img alt="StackOverflow"
+src="https://stackoverflow-badge.vercel.app/?userID=16455363" />
+</a>
 
 <p align="center">
 <a href="https://github.com/horsemann07">
