@@ -11,9 +11,11 @@ I'm an Embedded Software Developer with a passion for exploring the exciting wor
 I have a collection of repositories on my GitHub profile, highlighting my expertise and showcasing my work in various areas of Embedded Systems. Here are some notable repositories:
 
 1. **[Automation over ESPNOW](https://github.com/horsemann07/automation_over_espnow)**
+   
    **Description:** The Automation over ESP-NOW project utilizes the concept of alpha, beta, and gamma nodes to create an automation network. It should be noted that while we draw inspiration from the VSCP framework, we are not implementing the entire VSCP protocol stack.
 
 2. **[amazon-freertos-custom-v202107](https://github.com/horsemann07/amazon-freertos-custom-v202107)**
+   
    **Description:** TThe amazon-freertos-custom-v202107 repository provides a customized version of Amazon FreeRTOS with additional features and modifications tailored to specific project requirements. It includes enhancements, optimizations, and integrations that extend the capabilities of the base Amazon FreeRTOS framework.
 
 3. **Sensors Driver Development**
